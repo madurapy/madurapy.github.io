@@ -1,2 +1,2 @@
-# madurapy.github.io
-Komunitas Python Madura
+# Komunitas Python Madura
+https://t.me/madurapy
